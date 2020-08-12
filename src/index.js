@@ -7,7 +7,7 @@ function Heading() {
 
 ReactDOM.render(
   <div>
-    <Heading></Heading>
+    <Heading />
     <ul>
       <li>Bacon</li>
       <li>Jamon</li>
